@@ -1,0 +1,4 @@
+class BombedWall extends Wall 
+{
+    
+}
