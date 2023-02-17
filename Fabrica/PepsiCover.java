@@ -1,0 +1,3 @@
+class PepsiCover extends AbstractCover {
+    
+}

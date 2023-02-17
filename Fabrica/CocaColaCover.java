@@ -1,0 +1,3 @@
+ class CocaColaCover extends AbstractCover {
+    
+}
