@@ -1,0 +1,3 @@
+class WeatherData implements Subject {
+    
+}
